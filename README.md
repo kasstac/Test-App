@@ -1,6 +1,38 @@
-# Phase4OnlineTestApplication
+# Online-Test-Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+**Project: Test-App**
+
+**Objective:**
+The objective of this Project to develop an online test application/portal for assessment that enables users to provide online tests, review them, and display the results.
+
+**Following has been used**
+
+Visual Studio Code
+Node JS
+Angular
+GitHub
+
+**Step-by-Step Process:**
+
+1. Installed Node.js and npm, Visual Studio Code, Angular.
+2. Created git repository, initialized git in project directory.
+3. Writing the program to fulfil the requirements of the project.
+4. It has three main modules: Quiz, Review, and Result.
+   • The quiz section of the online test application accepts the questions in JSON format. The JSON file can be easily shared from the server in the pre-defined format.The application renders the test at the client-side.
+   • The “Review and display result” section allows users to declare the results immediately. Simply call another JSON with the answers in it and evaluate and display the results immediately.
+5. Features of Project:
+   • User can enter their name and start the quiz.
+   • User is taken to the quiz.
+   • User can select the correct answer from the options.
+   • If the Answer is correct then the option is highlighted with green color.
+   • If the Answer is incorrect then the option is highlighted with red color.
+   • After answering all questions user can see the result and review their result.
+6. Application has been tested and checked for proper functioning.
+7. Added the project to git repository, commmited and then pushed to remote repo.
+
+**Repo Link**
+
+https://github.com/kasstac/Test-App
 
 ## Development server
 
@@ -21,6 +53,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
 ## Further help
 
