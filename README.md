@@ -18,15 +18,15 @@ GitHub
 2. Created git repository, initialized git in project directory.
 3. Writing the program to fulfil the requirements of the project.
 4. It has three main modules: Quiz, Review, and Result.
-   • The quiz section of the online test application accepts the questions in JSON format. The JSON file can be easily shared from the server in the pre-defined format.The application renders the test at the client-side.
-   • The “Review and display result” section allows users to declare the results immediately. Simply call another JSON with the answers in it and evaluate and display the results immediately.
+   1. The quiz section of the online test application accepts the questions in JSON format. The JSON file can be easily shared from the server in the pre-defined format.The application renders the test at the client-side.
+   2. The “Review and display result” section allows users to declare the results immediately. Simply call another JSON with the answers in it and evaluate and display the results immediately.
 5. Features of Project:
-   • User can enter their name and start the quiz.
-   • User is taken to the quiz.
-   • User can select the correct answer from the options.
-   • If the Answer is correct then the option is highlighted with green color.
-   • If the Answer is incorrect then the option is highlighted with red color.
-   • After answering all questions user can see the result and review their result.
+   1. User can enter their name and start the quiz.
+   2. User is taken to the quiz.
+   3. User can select the correct answer from the options.
+   4. If the Answer is correct then the option is highlighted with green color.
+   5. If the Answer is incorrect then the option is highlighted with red color.
+   6. After answering all questions user can see the result and review their result.
 6. Application has been tested and checked for proper functioning.
 7. Added the project to git repository, commmited and then pushed to remote repo.
 
